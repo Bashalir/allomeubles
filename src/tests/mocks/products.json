@@ -1,0 +1,137 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Canapé Moderne",
+      "description": "Un canapé élégant et confortable pour votre salon moderne. Design épuré et lignes fluides qui s'adaptent à tous les intérieurs contemporains.",
+      "price": 799.99,
+      "reference": "CANAPE-001",
+      "category": "Salon",
+      "stock": 10,
+      "images": [
+        {
+          "id": 1,
+          "url": "https://example.com/canape-1.jpg"
+        },
+        {
+          "id": 2,
+          "url": "https://example.com/canape-2.jpg"
+        }
+      ],
+      "features": [
+        {
+          "name": "Matériau",
+          "value": "Tissu velours"
+        },
+        {
+          "name": "Couleur",
+          "value": "Gris anthracite"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Table Basse Design",
+      "description": "Table basse minimaliste qui s'adapte à tous les intérieurs. Plateau en verre trempé et piètement métallique élégant.",
+      "price": 299.99,
+      "reference": "TABLE-001",
+      "category": "Salon",
+      "stock": 15,
+      "images": [
+        {
+          "id": 1,
+          "url": "https://example.com/table-basse-1.jpg"
+        },
+        {
+          "id": 2,
+          "url": "https://example.com/table-basse-2.jpg"
+        }
+      ],
+      "features": [
+        {
+          "name": "Matériau",
+          "value": "Verre et métal"
+        },
+        {
+          "name": "Dimensions",
+          "value": "120x60x45 cm"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Chaise Scandinave",
+      "description": "Chaise design avec un style scandinave épuré. Confortable et élégante, parfaite pour votre salle à manger ou bureau.",
+      "price": 199.99,
+      "reference": "CHAISE-001",
+      "category": "Salle à manger",
+      "stock": 20,
+      "images": [
+        {
+          "id": 1,
+          "url": "https://example.com/chaise-1.jpg"
+        },
+        {
+          "id": 2,
+          "url": "https://example.com/chaise-2.jpg"
+        }
+      ],
+      "features": [
+        {
+          "name": "Matériau",
+          "value": "Bois et tissu"
+        },
+        {
+          "name": "Couleur",
+          "value": "Blanc et chêne"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Bibliothèque Élégante",
+      "description": "Bibliothèque moderne avec plusieurs étagères, idéale pour ranger et exposer vos livres et objets décoratifs.",
+      "price": 499.99,
+      "reference": "BIBLIO-001",
+      "category": "Bureau",
+      "stock": 8,
+      "images": [
+        {
+          "id": 1,
+          "url": "https://example.com/bibliotheque-1.jpg"
+        },
+        {
+          "id": 2,
+          "url": "https://example.com/bibliotheque-2.jpg"
+        }
+      ],
+      "features": [
+        {
+          "name": "Matériau",
+          "value": "Bois massif"
+        },
+        {
+          "name": "Dimensions",
+          "value": "180x90x35 cm"
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Salon",
+      "description": "Meubles pour votre espace de vie"
+    },
+    {
+      "id": 2,
+      "name": "Salle à manger",
+      "description": "Meubles pour votre espace repas"
+    },
+    {
+      "id": 3,
+      "name": "Bureau",
+      "description": "Meubles pour votre espace de travail"
+    }
+  ]
+}
